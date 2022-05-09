@@ -7,3 +7,5 @@ Steps:
 3. git add giant file
 4. git add print screen (du -hc .)
 5. git rm giant file
+6. execute bfg in mirror repository
+7. git push
